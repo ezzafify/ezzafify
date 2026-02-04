@@ -19,15 +19,18 @@
 
 ##### Some of the technologies I have worked with
 
+![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-222222?style=flat&logo=c%2B%2B)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Jupyter](https://img.shields.io/badge/-Jupyter-222222?style=flat&logo=jupyter&logoColor=F37626)
+![Jupyter](https://img.shields.io/badge/-Jupyter-222222?style=flat&logo=jupyter)
 ![NumPy](https://img.shields.io/badge/-NumPy-222222?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-222222?style=flat&logo=pandas)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-222222?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-222222?style=flat&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/-OpenCV-222222?style=flat&logo=opencv)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-222222?style=flat&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-222222?style=flat&logo=tensorflow)
+![Arduino](https://img.shields.io/badge/-Arduino-222222?style=flat&logo=arduino)
+
 
 <br/>
 
