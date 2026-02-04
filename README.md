@@ -1,6 +1,6 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
+</p>
 
 ###
 
@@ -18,35 +18,23 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ezzafify.ezzafify&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-###
-
-<p align="left">
-I'm Ezz Afify from Beheira, Egypt.<br><br>
-- 🔭 I’m working as a Junior Data Scientist | AI & Machine Learning Engineer<br>
-- 📚 I'm currently learning Advanced AI, Machine Learning, and Deep Learning<br>
-- ⚡ In my free time I experiment with Python projects, AI solutions, and problem-solving
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ezzafify&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
 
-###
+<h1 align="center">Hey there 👋</h1>
 
-<h3 align="left">🛠 Language and Tools</h3>
+### 👨‍💻 About Me
 
-###
+I'm **Ezz Afify** from **Beheira, Egypt**.  
+- 🔭 I’m working as a **Junior Data Scientist & AI Engineer**  
+- 📚 I'm currently learning **Advanced AI, Machine Learning, and Deep Learning**  
+- ⚡ In my free time I experiment with **Python projects, AI solutions, and problem-solving**  
+
+### 🛠 Languages & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
   <img width="12" />
@@ -59,14 +47,14 @@ I'm Ezz Afify from Beheira, Egypt.<br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
 
-###
+### 🔥 GitHub Stats
 
-<h3 align="left">🔥 My Stats :</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ezzafify&show_icons=true&theme=dark" alt="GitHub Stats" height="180"/>
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=ezzafify&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="180" alt="Streak Graph"/>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ezzafify&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-
+Credit: [Ezz Afify](https://github.com/ezzafify)
