@@ -12,10 +12,11 @@
 
 ##### Languages I use
 
+##### Languages I use
+
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
 ##### Some of the technologies I have worked with
 
