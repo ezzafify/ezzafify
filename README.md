@@ -40,6 +40,8 @@
 📍 **Location:** Beheira, Egypt  
 📫 **Email:** ezzmohamedaliafify@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/ezz-afify-738aa2337  
+💼 **Portfolio:** https://datascienceportfol.io/ezzmohamedaliafify
+
 
 ---
 
