@@ -1,29 +1,4 @@
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Junior+Data+Scientist;AI+%26+Machine+Learning+Engineer;Python+%7C+Data+Science+%7C+Deep+Learning;Always+Learning+Something+New" />
-</p>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ezzafify&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezzafify&show_icons=true&theme=tokyonight" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzafify&layout=compact&theme=tokyonight" />
-</p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ezzafify&theme=tokyonight" />
-</p>
-
----
 
 ### Hi I'm [Ezz Afify!](https://github.com/ezzafify)
 
