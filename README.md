@@ -1,50 +1,44 @@
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ezzafify&style=plastic&color=blueviolet" alt="Profile Views"/>
-</p>
+### Hi there 👋 I'm [Ezz Afify!](https://github.com/ezzafify)
 
-<p align="center">
-    <img src="https://github.com/ezzafify/your-repo/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
-</p>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-<div align="center">
+## I'm a Junior Data Scientist | AI & Machine Learning Engineer
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44a4-928e-8a08d1013f46.png)
+- 👨‍💻 I’m currently working on **Machine Learning, Deep Learning, and Data Science projects using Python**.
+- 📚 Learning more about **AI, Neural Networks, Computer Vision, and real-world data applications**.
+- 💪🏼 Future Goals: **Become a professional Data Scientist, build impactful AI solutions, and never stop learning**.
 
-<details>
-<summary>Open profile</summary>
+---
 
-<br>
-<div>
-  <div align=center>
-      <img height="200" alt="Avatar photo of Ezz Afify" src="https://github.com/ezzafify/ezzafify/assets/your-avatar.png">
-  </div>
-  <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Ezz+Afify;Welcome+to+My+GitHub+Profile;Junior+Data+Scientist+and+AI+Engineer;Passionate+about+ML+and+AI;Python+and+Data+Lover;Problem-Solver+and+Learner" alt="Typing SVG" /></a>
-  </div>
-</div>
+##### Languages I use
 
-<details>
-<summary>About me</summary>
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
-<div align="left">
+##### Some of the technologies I have worked with
 
-```js
-/**
- * Represents me.
- *
- * @constructor
- * @param {string} location - Beheira, Egypt.
- * @param {string} languages - English, Arabic.
- * @param {string} jobTitle - Junior Data Scientist & AI Engineer.
- * @param {string} specialization - Machine Learning, Deep Learning, Computer Vision.
- * @param {string} interests - AI, Data Science, Python projects.
- * @param {string} hobbies - Coding, Learning, Problem-solving.
- * @param {string} education - Bachelor in Engineering (Ongoing).
- * @param {string} approachable - Yes, feel free to collaborate on AI & Data Science projects.
- * @param {string} strength - Analytical and motivated.
- * @param {string} weakness - Perfectionism.
- *
- * @throws {DebugError} To any and all bugs.
- *
- * @returns {Object} Ezz Afify.
- */
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Jupyter](https://img.shields.io/badge/-Jupyter-222222?style=flat&logo=jupyter&logoColor=F37626)
+![NumPy](https://img.shields.io/badge/-NumPy-222222?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-222222?style=flat&logo=pandas)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-222222?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-222222?style=flat&logo=pytorch)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-222222?style=flat&logo=scikit-learn)
+
+<br/>
+
+---
+
+📍 **Location:** Beheira, Egypt  
+📫 **Email:** ezzmohamedaliafify@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/ezz-afify-738aa2337  
+
+---
+
+Credit: [Ezz Afify](https://github.com/ezzafify)
+
+Last edited on: 2026
