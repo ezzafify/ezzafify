@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Ezz Afify!](https://github.com/ezzafify)
+### Hi I'm [Ezz Afify!](https://github.com/ezzafify)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
