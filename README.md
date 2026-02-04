@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm [Ezz Afify!](https://github.com/ezzafify)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 ## I'm a Junior Data Scientist | AI & Machine Learning Engineer
 
